@@ -1,0 +1,10 @@
+{
+  "name": "@jack-rs/helpers",
+  "version": "1.0.0",
+  "description": "Cong cu ho tro xay dung website",
+  "main": "index.js",
+  "repository": "git@github.com:jack-rs/helpers.git",
+  "author": "JACK",
+  "license": "MIT",
+  "private": false
+}

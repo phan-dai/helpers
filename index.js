@@ -2,6 +2,8 @@
 /**
  * Chuyen tieng viet khong dau thanh slug
  */
+
+
 const toSlug = (str = "") => {
    // Chuyển hết sang chữ thường
    str = str.toLowerCase();     
@@ -33,7 +35,5 @@ const toSlug = (str = "") => {
 
 
 
+module.exports = toSlug;
 
-module.export = {
-    toSlug : toSlug
-};

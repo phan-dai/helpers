@@ -35,5 +35,5 @@ const toSlug = (str = "") => {
 
 
 module.export = {
-    _toSlug : toSlug
+    toSlug : toSlug
 };
